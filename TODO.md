@@ -1,0 +1,3 @@
+- Remove config.json
+    - This library shouldn't require someone to insert a config file
+    - Leverage Azure DefaultAuth

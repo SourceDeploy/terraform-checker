@@ -1,0 +1,13 @@
+{
+    "aws": {
+        "access_key_id": "!ACCESS_KEY_ID!",
+        "secret_access_key": "!SECRET_ACCESS_KEY!",
+        "region": "!REGION!"
+    },
+    "azure": {
+        "client_id": "!CLIENT_ID!",
+        "client_secret": "!CLIENT_SECRET!",
+        "subscription_id": "!SUBSCRIPTION_ID!",
+        "tenant_id": "!TENANT_ID!"
+    }
+}
